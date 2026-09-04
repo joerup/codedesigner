@@ -229,7 +229,7 @@ export function createProposalEditorExtension(
 
         outline.style.left = `${viewBounds.left + 12}px`;
         outline.style.top = `${viewBounds.top + 16}px`;
-        outline.style.width = `${Math.min(260, availableWidth)}px`;
+        outline.style.width = `${availableWidth}px`;
         outline.style.maxHeight = `${Math.max(160, viewBounds.height - 112)}px`;
         outline.replaceChildren();
         this.outlineHeadings = [];
