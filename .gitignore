@@ -1,0 +1,6 @@
+node_modules/
+main.js
+*.log
+.era-cache/
+.era/runtime/
+.DS_Store

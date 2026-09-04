@@ -1,0 +1,9 @@
+{
+  "id": "code-design",
+  "name": "Code Design",
+  "version": "0.1.0",
+  "minAppVersion": "1.8.0",
+  "description": "Review Era Code design-document proposals inline.",
+  "author": "Era Laboratories",
+  "isDesktopOnly": true
+}
