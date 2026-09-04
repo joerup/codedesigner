@@ -62,6 +62,7 @@ Both controls return to the same change when only one remains.
 Each non-empty technical explanation appears inline below its related change.
 
 The document outline appears in the unused left gutter when at least 180 pixels are available.
+It uses the full gutter width and truncates headings only at the gutter boundary.
 It shows the document filename above the heading links.
 Selecting the filename sets the document scroller to its absolute top.
 It preserves Markdown heading depth and scrolls to a heading when selected.
